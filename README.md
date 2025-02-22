@@ -1,2 +1,2 @@
-# Parallel-MT1
-[Programación Paralela] Contenidos de la parte práctica del parcial, codificado usando C/C++
+# 🖥️ Parcial 1
+Este repositorio contiene los programas que implementan lo pedido en el enunciado del parcial 1, utilizando el lenguaje de programación C & C++.
